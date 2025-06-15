@@ -31,7 +31,7 @@ A simple weather chatbot that uses Dialogflow and Python to provide real-time we
 ## 🖼️ Demo
 
 📹 *A detailed explanation video was recorded for this project.*  
-👉 [Insert video link here if you still have it or plan to upload it later]
+👉 https://www.bilibili.com/video/BV1ZkMszuEdw/?spm_id_from=333.1387.upload.video_card.click
 
 ## 📚 What I Learned
 - How to design Dialogflow intents and entities
